@@ -13,7 +13,11 @@ Vanquish the impossible Rig Veda Vangelis dispassionate extraterrestrial observe
 
 | Pätöjä | Julkaisuvuosi |
 |:------|--------------:|
-| Cosmos | joskus miekka ja kilpi |
-| jotai rypemistä matolla | Ennen muinoin |
+| **Cosmos** | joskus miekka ja kilpi |
+| **jotai rypemistä matolla** | Ennen muinoin |
 
 ##### Reenin 5. AlaOtsikko
+
+*We're living the future so
+the present is our past.*
+-K.W
