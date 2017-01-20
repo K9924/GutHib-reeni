@@ -1,6 +1,6 @@
 # GutHib Reeniä
 
-## Reenin AlaOtsikko
+## Reenin 1. AlaOtsikko
 
 ### Reenin 2. AlaOtsikko
 
