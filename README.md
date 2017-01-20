@@ -1,6 +1,6 @@
 # GutHib Reeniä
 
-![](https://i.ytimg.com/vi/USFMVgVAGvU/maxresdefault.jpg)
+![Herra Sagan pätemässä jotain kryptistä infoa](https://i.ytimg.com/vi/USFMVgVAGvU/maxresdefault.jpg)
 
 ## Reenin 1. AlaOtsikko
 
