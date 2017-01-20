@@ -6,8 +6,7 @@ Vanquish the impossible Rig Veda Vangelis dispassionate extraterrestrial observe
 
 ### Reenin 2. AlaOtsikko
 
-[Sagan Ipsum Generaattori](http://www.http://saganipsum.com/)
-
+[Sagan Ipsum Generaattori](http://www.saganipsum.com/)
 #### Reenin 4. AlaOtsikko
 
 ##### Reenin 5. AlaOtsikko
