@@ -25,3 +25,9 @@ the present is our past.*
 [Markdown](https://guides.github.com/features/mastering-markdown/)
 
 *Joku muutos*
+
+git status
+git add *.md
+git status
+git commit -m "*-edit"
+git push origin master
